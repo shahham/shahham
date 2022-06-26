@@ -1,0 +1,21 @@
+header, footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #0027A0;  
+}
+.register a, .faq a, .contact {
+    color: #fff;
+}
+.info-list, .partners-list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+}
+.faq {
+    margin-left: 40px;
+    margin-right: 40px;
+    color: #fff;
+}
